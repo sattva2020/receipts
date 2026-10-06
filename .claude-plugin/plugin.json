@@ -1,0 +1,9 @@
+{
+  "name": "receipts",
+  "version": "0.1.0",
+  "description": "Make your coding agent show receipts: no 'done' without the commands it actually ran and what they returned.",
+  "author": {
+    "name": "Ruslan Griban",
+    "url": "https://github.com/sattva2020"
+  }
+}

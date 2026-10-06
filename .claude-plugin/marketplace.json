@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "receipts",
+  "description": "No 'done' without receipts. Status line + the commands the agent actually ran.",
+  "owner": {
+    "name": "Ruslan Griban"
+  },
+  "plugins": [
+    {
+      "name": "receipts",
+      "description": "Completion reports with receipts for Claude Code.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
